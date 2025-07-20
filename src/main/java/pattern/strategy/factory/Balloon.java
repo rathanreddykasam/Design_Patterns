@@ -7,7 +7,7 @@ public class Balloon {
         createBalloon = new RedBalloon();
     }
 
-    public void BalloonStrategy(Factory f) {
+    public void setBalloonStrategy(Factory f) {
         createBalloon = f;
     }
 

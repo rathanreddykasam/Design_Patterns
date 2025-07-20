@@ -5,7 +5,7 @@ public class Main {
         Balloon b = new Balloon();
         b.create();
         YellowBalloon y = new YellowBalloon();
-        b.BalloonStrategy(y);
+        b.setBalloonStrategy(y);
         b.create();
     }
 }
