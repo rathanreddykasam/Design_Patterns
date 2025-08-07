@@ -1,0 +1,5 @@
+package pattern.behavioural.duck.behaviors.fly;
+
+public interface FlyBehavior {
+    public void fly();
+}
