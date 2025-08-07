@@ -1,4 +1,4 @@
-package pattern.strategy.factory;
+package pattern.creational.factory;
 
 public class YellowBalloon implements Factory{
     @Override

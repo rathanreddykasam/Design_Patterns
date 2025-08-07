@@ -1,4 +1,4 @@
-package pattern.strategy.parking;
+package pattern.behavioural.strategy.parking;
 
 public class LiftParking implements Parking{
     @Override
